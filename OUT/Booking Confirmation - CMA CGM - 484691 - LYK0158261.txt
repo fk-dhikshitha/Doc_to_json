@@ -1,0 +1,139 @@
+--- 1 ---
+PFR0717_001 v5.126 Page 1of3
+Run 31-AUG-22 14:14
+Booking Confirmation
+  Booking Number:
+LYK0158261
+Shipper:
+Vessel/Voyage:
+Connecting Vessel / Voyage:
+Receipt:
+Alternate Base Port: Alternate Base Pool: Feeder Vessel/Voyage: Port Of Loading: Loading Terminal:
+Transhipment:
+Port Of Discharge: Final Place Of Delivery:
+Remarks:
+Merchant Haulage Quantity:
+Net Weight: Container Number:
+Quote: Service Contract: HAZ: FUM: Reefer: OverSized Cargo: Flexitank:
+Ramp Cut-Off Date/Time:
+Attn:
+YARA NORGE AS AUTOBOOK SYSTEMBOT P.O. BOX 1123
+CMA CGM Scandinavia
+LILLEAKERVEIEN 6D
+OSLO
+Phone:
+Fax:
+Contact: Sameer Shaikh Customer Service:
+S020-80B-22 :0000688706 001
+By:
+Time:
+Preferred Depot: NORTH SEA TERMINAL AS
+Address: NORTH SEA TERMINAL TANGENVEIEN 40
+Bkg Pty Ref:
+UFS TBN 22 / 026DOR
+Booking Date:
+23-AUG-22
+YARA NORGE AS
+CMA CGM ZHENG HE / 0FLD2E1MA
+/
+BREVIK
+NORTH SEA TERMINAL AS
+ROTTERDAM BUSAN, KOREA
+SHIPPER REFERENCE S020-80B-22
+ETD:
+Earliest Receiving Date/Time: CHECK TERMINAL
+BREVIK
+N/A NORWAY
+Gross Weight:
+131000 KGM
+SI Cut-Off Date/Time: VGM Cut-Off Date/Time: Terminal Cut-Off:
+ETD:
+ETA:
+ETA:
+FPD ETA:
+10-OCT-2022 10:00 10-OCT-2022 10:00 10-OCT-2022 14:00 11-OCT-2022 23:00 14-OCT-2022 10:00 28-NOV-2022 16:30
+(All times are in local time)
+ Road 5 x 20'ST
+120000 KGM QLYK004243
+N N
+N N N
+Eqp Available Date: 28-SEP-22
+HS Commodity: Double salts and mixtures of c
+ 
+--- 1 ---
+--- 2 ---
+PFR0717_001 v5.126 Page 2of3
+Run 31-AUG-22 14:14
+Booking Confirmation
+  Booking Number:
+LYK0158261
+PLEASE NOTE:
+Original bill of lading will primarily be published for local print direct from our web site. For non-web
+customers, original
+bill of lading will be posted through regular mail, unless explicitly otherwise agreed. The carrier is NOT responsible
+for delay or loss of the original bill of lading during postal services.
+.
+We remind you that a high security seal must be affixed on all containers (except flat rack), before turn in to the terminal. Failing this may result in delay and costs for your account.
+.
+Please submit VGM and SHIPPING INSTRUCTION to us through our WEB SITE, or by other means of EDI.
+.
+Costs due to roll over, cut etc. caused by late documentation, is for account of shipper.
+.
+In case of late cancellation or amendment of booking - Cancellation/Amendment Fee may apply.
+.
+Shipment Under Deck not guaranteed.
+.
+Cargo could be loaded On Deck if no specific request received and confirmed.
+.
+Shipment is subject to final approval by vessels master (OOG/HAZ/special cargo).
+.
+If over-sized dimensions are different than declared, cargo may be left behind, and additional charges and freight apply.
+.
+Shipper is responsible to ensure that cargo is in a seaworthy condition, and is SAFELY stuffed, secured and lashed.
+.
+Export Custom clearance is for shipper’s responsibility to perform, and this should be submitted to carrier at
+any time upon request.
+.
+Any applicable Detention/Demurrage/Storage/Monitoring charges will be invoiced to booking party. Beware
+to pick up and deliver containers within the free time periods. For details please refer to our web-site: https://www.cma-cgm.com/local/norway/tariffs-local-charges or your usual entry point with us.
+CLAUSES:
+1 The Carrier is committed to comply with all applicable International and National Economic Sanctions such as, but not limited to, United Nations, European Union and U.S. legislations (“Sanctions”) and their corresponding banned entities lists such as, but not limited to, the Special Designated National and Blocked Persons List (OFAC) the European Union List of Persons and Entities Subject to Financial Sanctions.
+2 375.Merchant undertakes and warrants that, in no circumstance whatsoever, the Goods listed in this Bill of Lading shall be stuffed and on-carried from the Russian Federation territory or Republic of Belarus before loading at port of loading.
+3 Hence, the Carrier reserves its right to decline or cancel, at any time, any booking involving listed entities or breaching any Sanctions. If cargo is loaded, it may be discharged at any place and time the Carrier may deem convenient and Clause 10 Matters Affecting Performance of the Carrier’s Bill of Lading shall apply.
+4 Receipt of an CMA CGM booking confirmation shall not be construed as a confirmation of acceptance of Hazardous / Dangerous cargo. Such cargo will only be accepted subject to the shipper or his agent supplying correctly completed and signed Multimodal Dangerous Goods Forms and receiving written acceptance from CMA CGM notifying that such hazardous / dangerous cargo as described on the relevant Multimodal Dangerous Goods Forms has been accepted by the Vessel Operator for the particular ocean voyage as per booking. Any costs, expenses, fines and penalties associated with cargo presented for shipment without such written acceptance from CMA CGM confirming the acceptance of hazardous / dangerous cargo, incorrectly completed and / or signed Multimodal Dangerous Goods Forms or containers not having correct placards shall be for cargo interests’ account. CMA CGM shall not be liable for any consequential losses or damages
+arising from the rejection or refusal to load hazardous / dangerous cargo by the Vessel Operator.
+5 This Booking Confirmation and all services to be provided thereof are subject to CMA CGM bill of lading terms and conditions. Such terms and conditions are
+available on CMA CGM web site (www.cma-cgm.com) or in any CMA CGM agency. By tendering cargo for shipment the Merchant acknowledges and agrees that all the
+terms and conditions of the CMA CGM are applicable.
+6 The Shipper warrants to the Carrier that the particulars relating to the Goods as set out overleaf have been checked on receipt of this Bill of Lading and that
+such particulars, and any other particulars furnished by or on behalf of the Shipper, are adequate and correct. The Shipper also warrants that the Goods are lawful Goods and contain no contraband. Without prejudice to any other rights and defenses afforded by the Bill of Lading - and irrespective of any loss, damages, fines and expenses suffered or incurred by the Carrier that may always be claimed - in case of any failure of the Shipper to comply with the above, the Carrier shall be entitled to charge the Shipper, or any party which is jointly liable with the Shipper, at any time an amount of USD 2,000 as processing and operational fees in addition to a penalty of 15,000 USD per dangerous container and 5,000 per non dangerous container misdeclared.
+7 Examples of misdeclaration are set out below:
+8 • Part or all of the cargo actually stuffed inside the container is dangerous cargo, but is declared as general cargo at the time of booking.
+9 • The name, the class number or the UN number declared at the time of booking is different from the one that shall be applicable to the dangerous cargo actually
+stuffed inside the container, and has not been corrected before our release of the empty container.
+10 • The cargo is declared as general cargo at the time of booking but is requested to be amended to dangerous cargo after our release of the empty container.
+11 • The cargo is discovered or determined by any domestic or foreign authority (including but not limited to customs, MSA, port and terminal, etc.) or any carriers as
+the mis-declared dangerous cargo.
+12 358. Following the exceptional measures adopted by various governments in relation with the outbreak of COVID-19 virus and the operational constraints
+resulting thereof, the Merchants are hereby notified that the carriage of cargo may be disrupted or delayed.Cargo may not be loaded on the intended vessel and may be on forwarded to the port of destination on any alternative vessel at Carrier’s sole discretion. Furthermore in case of disruption of ports’ operations, the
+cargo may be discharged in an alternative port without notice and - subject to availability - be on forwarded to the original intended port of destination.Carrier
+reserve its rights to accomplish the bill of lading in any alternative port. All additional costs, including but not limited to storage, demurrage, plugging, monitoring
+at the alternative discharge port or extra on forwarding costs, shall be on Merchant's account and payable before delivery and the carrier shall have no liability whatsoever for any loss or damage resulting thereof
+--- 2 ---
+--- 3 ---
+PFR0717_001 v5.126 Page 3of3
+Run 31-AUG-22 14:14
+Booking Confirmation
+  Booking Number:
+LYK0158261
+13 366. The Merchant warrants that the particulars relating to the Goods have been checked and that such particulars are adequate and correct. In case of failure of the Merchant to comply with such warranty, the Carrier shall be entitled to charge the Merchant at any time an amount of USD 2,000 per Container as processing and operational fees. This fee shall also be applicable in case of discrepancy between the Verified Gross Mass (VGM) sent to the Carrier and the weight declared by the Shipper in his shipping instruction or otherwise weighted during the Carriage.
+14 This booking confirmation shall not be construed as a guarantee given by the Carrier that the equipment will be available for loading of goods at the estimated time herein specified.
+15 Unless Merchant has expressly disclosed otherwise in writing to the Carrier at the time of requesting a booking, all goods are deemed to be declared by Merchant as not being “Military Cargo and assimilated” as that term is defined on the CMA CGM website at https://www.cma-cgm.com/shipping/special-cargo. Carriage of Military Cargo and assimilated is subject to the Carrier’s prior written approval. Carrier reserves the right to cancel bookings for misdeclared Military
+Cargo and assimilated at any time without any liability whatsoever. Merchant is reminded that any misdeclared cargo may be stopped in transit at any time with prejudice to the Carrier’s rights under clauses 25 and 26 of the Carrier’s Bill of Lading terms and conditions available at https://www.cma-cgm.com/products- services/shipping-guide/bl-clauses.
+16 "Shipment shall be subject to CMA CGM bill of lading terms and conditions available in any CMA CGM agencies or on CMA CGM web site: www.cma-cgm.com"
+17 "It is reminded that if this shipment has been booked on a "freight collect" basis you guarantee and will be responsible for the payment of all freight and charges payable by the receiver and that you shall proceed with the full payment of all outstanding freight and charges should they remain unpaid for more than three
+consecutive days after discharge."
+18 Important: The Shipper acknowledges that the Carrier is authorized to carry the Goods on the deck of any vessel. In tendering the Goods to the Carrier for shipment
+(whether a bill of lading is issued or not), the Shipper, acting for his own account as well as for and on behalf of the Consignee and of the Holder of the Bill of Lading, expressly accepts and agrees to all the terms and conditions, whether printed or stamped or otherwise incorporated on the face and on the reverse side of the Carrier's Bill of Lading and the terms and conditions of the Carrier's applicable tariff as if they were all signed by the Shipper and further expressly
+confirms his unconditional and irrevocable consent to the carriage of the Goods on the deck of any vessel
+--- 3 ---

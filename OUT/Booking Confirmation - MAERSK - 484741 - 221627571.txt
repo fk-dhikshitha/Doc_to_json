@@ -1,0 +1,104 @@
+--- 1 ---
+BOOKING AMENDMENT
+ Booking No.: 221627571 Print Date: 2022-09-28 06:53 UTC
+Allocation week: AllocationWeek-2022/41-VesselName-MITO-4AX Flexible Essential - Load as Booked within 10 days
+Thank you for placing your booking with Maersk A/S, as Carrier
+We request you to review the specific parameters, viz. Service Contract, Price Owner, Named account customer and Commodity description. In case there are any changes required to these parameters, please send us a request before any containers(s) are picked
+Price Calculation Date: 2022-10-10
+The rates and other applicable charges on your shipment will be invoiced based on Price Calculation Date (PCD)
+For Non-FMC shipments, PCD is the Estimated Time of Departure (ETD) of the first vessel in the latest booking confirmation issued upon customer request.
+For FMC shipments, PCD is the date on which Maersk Line A/S or one of its authorised agent(s) takes possession of the last container listed on the transport document.
+Note: FMC regulated trades are shipments exiting or entering a port in the United States, Guam, US Virgin Islands, American Samoa or Puerto Rico (US).
+Equipment
+Intended Transport Plan
+Load Itinerary
+ Booked by Party: YARA NORGE AS
+ Service Mode: SD/CY
+ Contact Name: Joachim Gleditsch
+ From: Heroeya,Norway
+ Booked by Ref. No: S007-40A-22
+ To: Manila,Philippines
+ Service Contract: 16266471
+ Ref.No:
+ Price Owner: YARA INTERNATIONAL ASA
+ Business Unit: Maersk Norge AS - Oslo
+ Named Account Customer:
+ Commodity Description: Chemical products, nos
+ Quantity Size/Type/Height (ft.in) Collapsible Sub. Equip Gross Weight Pack. Qty/Kind Cargo Volume
+        19 20 DRY 8 6 513000.000 KGS 19 Bulk 10.7597
+ From
+ To
+ Mode
+ Vessel
+ Voy No.
+ ETD
+ ETA
+ Heroeya
+Brevik Terminal
+NTB NORTH Sea Terminal Bremerhaven
+YANGSHAN SGH GUANDONG TERMINAL Shanghai East Container T erminal
+Brevik Terminal
+NTB NORTH Sea Terminal Bremerhaven
+YANGSHAN SGH GUANDONG TERMINAL Shanghai East Container
+T erminal
+Manila Intl Container Tmnl North
+TRK FEF
+MVS TRK MVS
+MITO
+METTE MAERSK
+VIVALDI
+240S 241E
+247E
+2022-10-09 2022-10-09
+2022-10-17 2022-11-28 2022-12-03
+2022-10-09 2022-10-13
+2022-11-20 2022-11-29 2022-12-08
+       Type
+ Location
+ Release Date
+ From
+ To
+ Return Date
+ Time
+ Load Ref.
+ Empty Container Depot
+Cargo pickup
+Return Equip Delivery Terminal
+Brevik Terminal Brevik Terminal Brevik Terminal Brevik
+ 2022-10-03
+2022-10-03
+08:00
+08:00
+15:00
+2022-09-21
+04:30
+YARA NORGE AS YARA NORGE AS PORSGRUNN 3905
+ Brevik Terminal Brevik Terminal Brevik Terminal Brevik
+       This booking confirmation is subject to compliance with Maersk policy on shipments to Russia (available on maersk.com) and UN, EU and US sanction and export control laws, including US and EU
+This document is subject to following:
+This booking and carriage are subject to the Maersk Line Terms and Conditions of Carriage which are available upon request from the carrier or his representatives and are furthermore accessible on the Maersk Line website "<http://www.maerskline.com>" under “ Terms and conditions” or the same can be checked in "https://terms.maerskline.com/"
+- The shipment is subject to tariff rates unless a correct and applicable service contract number is available
+- The carrier's right to substitute the named and/or performing vessel(s) with another vessel or vessels at any time.
+- Arrival, berthing, departure and transit times are estimated and given without guarantee and subject to change without prior notice
+- All dates/times are given as reasonable estimates only and subject to change without prior notice.
+Shipments destined for or carried/transhipped via the USA:
+- This document is given subject to the customer providing the correct cargo description in accordance with U.S. law, including U.S. Customs requirements as described in Customs Rules and Regulations, 19 CFR Parts 4, 113 and 178 of October 31, 2002
+Page 1/2
+--- 1 ---
+--- 2 ---
+sanctions laws applicable to Russia (Sanctions). By proceeding, shipper represents that this booking in no way is in violation of Maersk policy on shipments to Russia, that the shipment does not involve, nor shall it involve, in either context directly or indirectly, in any way any entity or person subject to Sanctions, including any entity or person subject to Sanctions relating to Russia and that this booking does not involve any items prohibited by Sanctions for import to Russia. If this shipment is in violation of Maersk policy on shipments to Russia, any entity or person involved in this booking is an entity or person subject to Sanctions or any items in this booking are prohibited for import to Russia by Sanctions, the shipment will be returned to origin without exception, and shipper is responsible for all cost and risk for such return. Shipper agrees that Carrier may withhold release of cargo pending investigation to determine if the booking is in violation of Sanctions.
+All obligations of the Carrier in relation to the Carriage, including loading a container and issuing a bill of lading, are subject at all times to all parties under the definition of Merchant being acceptable to the Carrier. The Merchant shall be liable for and indemnify the Carrier against all claims, liabilities, losses, damages, costs, delays, attorney fees and/or expenses, and additional Freight incurred as a result of the Merchant nominating a party not acceptable to the Carrier .
+Whether or not a party is acceptable to the Carrier can be verified on https://www.maersk.com/portaluser/account/customer-search
+Have you arranged your inland trucking and export customs clearance?
+Do you know that we have truck and rail solutions from North to South and West to East to serve your delivery needs? We can also assist you with your customs house brokerage for a smooth and easy export process. Interested?
+For more information
+please contact your local Maersk office at – no.export@maersk. com
+or Phone: +47 67 10 76 00. (08-16)
+Duty Phone (Outside Opening Hours): +47 46 86 53 75. Discover now and find our inland rates at https://my.maerskline.com/ inlandratelookup/#tariff
+Please consider that the deadlines might be affected during local holidays and weekends, we recommend you to track the latest updates 7-10 days prior vessel ETD on https://maersk.com/
+ Description
+  Quantity
+Additional Info
+ Important: To stay informed about transport plan changes on your shipment, subscribe to notifications on our website: https:// www.maersk.com/notifications/#summary. From September 17th 2018, notifications would only be sent to those subscribed
+2/2
+--- 2 ---

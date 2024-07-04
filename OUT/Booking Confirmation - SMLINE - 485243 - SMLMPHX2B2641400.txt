@@ -1,0 +1,250 @@
+--- 1 ---
+ PHX2B2641400
+Booking Receipt Notice
+    CHRISTINE KIM / LOTTE GLOBAL LOGISTICS (USA) INC.(Tel:714-373-8880 / Fax:
+31 AUG 22 18:08
+    To :
+North America HQ / Katherine Castillo(TEL:)
+  From :
+  We received a booking request by you as follows. Please review following items and advise us of any discrepancy
+PHX2B2641400
+R2209011118
+31Aug22
+      Booking No :
+Katherine Castillo
+Booking Ref. No. :
+Booking Date :
+     Booking Staff
+: : : : :
+Sunny Rhee
+Regional Booking No.
+: :
+SMLMPHX2B2641400
+    Sales Rep
+B/L No.
+    Contract No.
+LOTTE GLOBAL LOGISTICS (USA) INC.
+  Shipper
+  Forwarder
+     Pre Carrier
+: :
+:
+: : : :
+: :
+: : :
+ETA/ETD
+: :
+: : : : :
+: :
+    IMO/Flag/Call Sign
+Trunk Vessel
+KOTA LUKIS 2204W (CPX)
+NRT
+ETA/ETD
+04Oct22/07Oct22
+         MRN(Korea only)
+9439747/CHINA/VRSN8
+CCN
+24504
+    IMO/Flag/Call Sign
+NRT
+    1st USA Port
+Last Foreign Port(ETD)
+    1st Canada Port
+Place of Receipt
+LONG BEACH,CA
+Last Foreign Port(ETD)
+Port of Loading
+LONG BEACH,CA
+     BUSAN
+23Oct22
+    Port of Discharging
+   :
+: :
+: : :
+: :
+:
+PUSAN NEWPORT CO.,LTD.
+Direct
+CY
+ 700 Pier A Plaza, Long Beach, CA 90813
+562-491-4000 30Sep22 12:00
+ETA
+  Terminal
+BUSAN
+:
+:
+:
+23Oct22
+    Place of Delivery
+ETA
+   Ocean Route Type
+(Estimated CNTR Available Time)
+CY
+    Receiving Term
+40FT RFR H/C CNTR-10
+Delivery Term
+:
+  Equipment Type/QÕty
+: :
+HEALTH PRODUCTS, NOS;
+25,000.000 KGS
+    Commodity
+SSA TERMINAL PIER A
+Estimated Weight
+:
+   Empty Pick UP CY
+700 Pier A Plaza, Long Beach, CA 90813
+562-491-4000
+SSA TERMINAL PIER A
+Empty Pick Up Date
+:
+  Address
+Randy Galosic
+    TEL
+Full Return CY
+Yard PIC
+Full Return Date
+      Address
+:
+: : :
+Randy Galosic
+    TEL
+Doc Cut-off
+Yard PIC
+Customs Cut-off
+     03Oct22 16:00
+~
+    Port Cargo Cut-off
+Rail Receiving Date
+    Estimated ERD
+VGM Cut-off
+    Special Cargo Information (Please see attached, if exists)
+Shipper's own Container
+            Dangerous
+V
+  :
+ :
+VITAMINS, CHILLED, +69F, VC, YES GEN, Shipper ref #:, Forwarder ref #:
+)
+Awkward
+     Remarks 1
+PLEASE SUBMIT S/I ONE WORKING DAY PRIOR TO CUTOFF FOR CHINA DESTINATION.
+SUBJECT TO EQ AVAILABLE AND SPACE.
+CUT OFF AND ERD ARE SUBJECT TO CHANGE BASED ON VESSEL SCHEDULE
+SHIPPER IS RESPONSIBLE TO REVIEW THE BOOKING INFORMATION AND REPORT ANY DISCREPANCY.
+Break Bulk
+    Remarks 2
+  N.B This booking is subject to change for door (carrier's haulage) delivery date/time as well as to vessel space and vessel schedule maybe change without notice
+ Customer Service :
+Thank you for choosing SM LINE
+ 
+--- 1 ---
+--- 2 ---
+ *** ATTACHED RIDER ***
+    BKG NO :
+PHX2B2641400
+PAGE :
+2/2
+  ============================== ** Reefer Cargo Detail by Container **
+       Temp. Set : 20.6 `C (69 `F)
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+   Humidity : 0 %
+Drain :
+  Remark :
+       Temp. Set : 20.6 `C (69 `F)
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+   Humidity : 0 %
+Drain :
+  Remark :
+       Temp. Set : 20.6 `C (69 `F)
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+   Humidity : 0 %
+Drain :
+  Remark :
+       Temp. Set : 20.6 `C (69 `F)
+ Humidity : 0 %
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+  Drain :
+  Remark :
+       Temp. Set : 20.6 `C (69 `F)
+Temp. Set : 20.6 `C (69 `F)
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+   Humidity : 0 %
+Drain :
+  Remark :
+       Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+   Humidity : 0 %
+Remark :
+Drain :
+         Temp. Set : 20.6 `C (69 `F)
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+   Humidity : 0 %
+Drain :
+  Remark :
+       Temp. Set : 20.6 `C (69 `F)
+ Humidity : 0 %
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+  Drain :
+  Remark :
+       Temp. Set : 20.6 `C (69 `F)
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+   Humidity : 0 %
+Drain :
+  Remark :
+       Temp. Set : 20.6 `C (69 `F)
+Ventilate :
+0%
+Genset :
+Yes
+CNTR No :
+   Humidity : 0 %
+Drain :
+  Remark :
+  1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+--- 2 ---

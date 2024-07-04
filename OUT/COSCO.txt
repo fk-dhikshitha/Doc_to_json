@@ -1,0 +1,91 @@
+--- 1 ---
+     6343267510
+PILLLIPAEDAOJAPILLLIP OCKKKCOAKJDMKAOCKKKCO MEMHLAKABEBHJFGFOCFJG LKCCCKLAEDEICFLHOMKEP PAOOOAPAKPMHJJCAEAKNL IIIIIIIAIIIIAAIIIAIAI
+  Booking Acknowledgement
+DATE: 27 Sep 2022 16:21
+  FROM:
+CONTACT NUMBER:
+BOOKING REMARK
+DATE BOOKED: BOOKING NUMBER: BOOKING STATUS: BOOKING OFFICE:
+PARTIES INFORMATION
+BOOKING PARTY: FORWARDER: SHIPPER:
+COSCO SHIPPING Lines (North America) Inc. Los Angeles
+EMAIL ADDRESS:
+https://coscoshippingla.freshdesk.com
+    26 Aug 2022 6343267510 Confirmed LAX
+Binex Line Corporation
+Binex Line Corporation
+ RATE AGREEMENT REFERENCE:
+LAN22039 - (SERVICE CONTRACT)
+  ROUTE INFORMATION
+ TOTAL BOOKING CONTAINER QTY SIZE/TYPE:
+6 X 40' Hi-Cube Refrigerated Container
+ PLACE OF RECEIPT: Long Beach,Los Angeles, California, United States
+ PORT OF LOADING: Long Beach / Long Beach Container Terminal , LLC ETA: 10 Oct 2022
+ INTENDED VESSEL/VOYAGE: COSCO ENGLAND 054W ETD: 15 Oct 2022
+ SERVICE CODE: SEA VESSEL FLAG: Hong Kong
+ BLOCK NUMBER:
+ PORT OF DISCHARGE: Hong Kong / Cosco-Hit Terminals (Hong Kong) Ltd ETA: 07 Nov 2022
+ FINAL DESTINATION: Hong Kong,Hong Kong ETA: 07 Nov 2022
+ ESTIMATED CARGO AVAILABILITY AT DESTINATION HUB: 08 Nov 2022 05:00
+ INTENDED VGM CUT-OFF: VGM is required prior to gate in at port of loading or rail unloading
+ INTENDED EARLIEST DELIVERY: 06 Oct 2022, 00:00:00
+ INTENDED FCL CY CUT-OFF: INTENDED SI CUT-OFF: 10 Oct 2022 16:00(PST)
+ INTENDED eSI CUT-OFF: 10 Oct 2022 16:00(PST) LATE AND/OR INCOMPLETE SHIPPING INSTRUCTION SUBMISSION MAY RESULT IN CONTAINER(S) SHORT SHIPMENT AND
+LATE SI SUBMISSION CHARGES
+ INTENDED PORT CY CUT-OFF: 11 Oct 2022 16:00
+   CARGO INFORMATION
+ CARGO NATURE: Reefer
+ CARGO DESCRIPTION: Chilled health supplement
+ BOOKING QTY SIZE/TYPE: 6 X 40' Hi-Cube Refrigerated Container
+ SOC INDICATOR: N
+ CARGO WEIGHT: 9071.847 KG TRAFFIC MODE: FCL / FCL
+ OUTBOUND DELIVERY MODE: CY INBOUND DELIVERY MODE: CY
+ EMPTY PICK UP LOCATION: FULL RETURN LOCATION:
+ Pacific Container Terminal Long Beach Container Terminal , LLC
+ EMPTY PICK UP ADDRESS:
+Berth 246 1521 Pier J Avenue Long Beach , CA 90802
+FULL RETURN ADDRESS:
+Pier E, 201 Pico Ave, Long Beach CA 90802
+ EMPTY PICK UP TELEPHONE: 1-562 590-8728 FULL RETURN TELEPHONE: 1-562 9516000
+   SPECIAL CARGO INFORMATION
+ CARGO NATURE: Reefer
+ CARGO DESCRIPTION: Chilled health supplement
+ REQUIRED TEMP SETTING: 68 F
+ REQUIRED PRE-COOLING: N
+ REQUIRED VENT SETTING: 0 pct
+ OPERATIONAL: true
+ GENSET: Clip-on
+ OXYGEN (O2) LEVEL:
+ CARBON DIOXIDE (CO2) LEVEL:
+ CA: N
+ MODIFIED ATMOSPHERE: N
+ ADVANCE FRESH AIR MGMT: N
+ REQUIRED DEHUMIDITY: N
+ 
+--- 1 ---
+--- 2 ---
+     6343267510
+PILLLIPAEDAOJAPILLLIP OCKKKCOAKJDMKAOCKKKCO MEMHLAKABEBHJFGFOCFJG LKCCCKLAEDEICFLHOMKEP PAOOOAPAKPMHJJCAEAKNL IIIIIIIAIIIIAAIIIAIAI
+  Booking Acknowledgement
+DATE: 27 Sep 2022 16:21
+   SENSITIVE CARGO: N
+ SENSITIVE CARGO TYPE:
+ TAINT: N
+ COLD TREATMENT: N
+ APPROVAL REFERENCE
+  REQUIRED DOCUMENT INFORMATION
+ REQUIRED DOCUMENT: Shipping Instruction/BL Master
+ EXTERNAL REFERENCE INFORMATION
+ RESPONSIBLE PARTIES: Booking Party;Forwarder;Shipper;
+  Service Contract Number : LAN22039
+File Identifier : FWK2-2022082620431432-54
+Cargosmart Reference Number : CC6075357830
+Contact Email : NOMI@BINEXLINE.COM;JINJUNG@BINEXLINE.COM
+ OTHER REMARKS
+ Please click here https://world.lines.coscoshipping.com/na/en/resource/bk for important contact and booking confirmation disclaimer information.
+The booking party/shipper guarantees that himself, the consignee, notify party and end user of the shipment are not an individual or entity listed in any applicable sanctions or restricted party list unless otherwise agreed. The booking party/shipper and other aforesaid parties shall comply at all times with all applicable sanctions, embargoes, export controls, anti-boycott regulations and other restrictive measures of the PRC, the US, the EU and any other relevant countries. The booking party/shipper agrees that the carrier retains the right to reject any shipment which is sanctions involved, and if it is later found that there may be sanctions involved, the carrier has the right to return the shipment at the carrier's discretion. The booking party/shipper agrees that all costs and consequences that might incur shall be borne by the shipper and/ or booking party.
+Please load cargo in strict accordance with the maximum load limit (max gross) on the container. The cargo owner should be liable for all the responsibility if the container is damaged due to overweight or other losses caused.
+ - END -
+ 
+--- 2 ---

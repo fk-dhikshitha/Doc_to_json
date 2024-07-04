@@ -1,0 +1,190 @@
+--- 1 ---
+  Booking Notice
+  Thank you for booking with HMM, please review the booking details below and advise us of any discrepancies and/or changes, if required.
+< Booking Status : Firm >
+       Email Date Booking Date Tel No.
+: : :
+2022/08/25 14:44
+  2022/08/19 14:44 VGM PIN
+: :
+: :
+: :
+5920
+Attn :
+Augustine Yun
+  3104168600   Fax No.
+E-mail
+:
+nomi@binexline.com;jinjung@binexline.com
+  Booking Information
+     Booking Number
+DALA84533400
+    Booking Office Booking Staff
+HMM Sales Person
+: : : : :
+: : :
+DALSC   Tel No.
+: : :
++1-469-522-4700 +1-562-345-2023
+: :
+Fax No. E-mail E-mail
+: : :
++14695224890 inviw@hmm21.com hspym@hmm21.com
+ BOMSC / Vinod Wadam Tel No.
+ LAXBR / YeongMi Pyo Tel No.
+  B/L Issue Office
+  Customer Information
+   Shipper Customer's Ref.No
+: :
+BINEX LINE CORPORATION Forwarder
+:
+ S/C : US2200444
+  Shipping Information
+   1st Vessel/Voyage 2nd Vessel/Voyage
+ONE AQUILA 0017W(PS7) T/S Port
+Call Sign : H9LE
+  T/S Port
+Call Sign :
+   3rd Vessel/Voyage Place of Receipt Port of Loading
+Call Sign :
+  LONG BEACH, CA
+     LONG BEACH, CA
+TML :
+INTERNATIONAL TRANSPORTATION Facility Code
+:
+USLGBITS
+   Port of Discharging
+HONG KONG
+ETB : TML : TML :
+Block :
+2022/09/13 07:00   ETD
+: : : :
+2022/09/21 05:00 2022/10/06 20:30
+ HONGKONG - MODERN TERMINAL LTD ETA
+    Place of Delivery Rec./Del. Term
+HONG KONG CY / CY
+  :
+HONGKONG - MODERN TERMINAL LTD ETA
+:
+95,000.000 KGS Measurement
+2022/10/06 20:30 2022/09/23
+   Stop Off
+:
+N
+Rating Date
+  Cargo Information ** Equipment subject to Availability **
+    Equipment Type Equipment Type
+: : :
+Reefer Container Equipment Size
+: : :
+4H Equipment Qty
+: : :
+5 SOC Qty : 0
+   Equipment Size
+Equipment Qty
+SOC Qty :
+    Equipment Type
+Equipment Size
+Equipment Qty
+SOC Qty :
+    Commodity Code
+: :Y
+2936000001 Commodity Desc.
+:
+VITAMINS, NOS, CHILLED Flex EQ
+:
+No
+    Partial Allowed
+PKG-Count
+0   Gross WGT
+:
+0
+  Special Cargo Information *** Final DG declaration cut-off is @ 11am two business days (48 hours) prior to DG cut-off ***
+HAZ cargo is subject to approval. After making a BKG with HMM CSR, please submit the DG HAZ Declaration to ushazmat@hmm21.com.
+   For details, please see attachment.
+Oversize/Bulk : No / No Licensed Auto / Flexi-Bag :
+No / No Rev.Empty :
+No Hide : No
+ Pick- up/Return Location ** Pick-up CY subject to Availability **
+   Empty Pick-up CY (Business Hours)
+: : : : : :
+REFRIGERATED CONTAINER CALIFORNIA
+Estimated Empty Pick-up Date (for shipper's own reference) : 2022/09/10 06:00
+  Type/Size / QTY
+: :
+     Address
+Full Return CY (Business Hours)
+1304 E. LOMITA WILMINGTON, CA. 90744 INTERNATIONAL TRANSPORTATION SERVICES 07:00 ~ 17:00 (Weekdays) 07:00 ~ 17:00
+Tel No.
+:
+:
+310-549-4321 Fax No.
+310-522-8813
+       Address
+1281 PIER G WAY LONG BEACH, CA
+Tel No.
+562-435-7781 Fax No.
+:
+562-590-6761
+  Estimated Cut- off Information (If the Documentation cut- off falls on the weekend, documents are due the Friday before).
+  Port cut-off (US) (RF) 2022/09/12 16:00
+ *CAN.USA Trans-border Cargo Doc Cut-off: 48HRS prior to INL Rail cut-off. *Early Return subject to Storage Charges
+*Terminal 1st receiving and HMM DEM Free ERD may differ. If container is returned prior to DEM free ERD, you will be charged for each day, up to, and including vessel berthing date. If vessel is delayed following return of the container, demurrage will terminate on the scheduled day of vessel berth at the time of container ingate.
+HMM applies a Ò48 HRÓ rule to all INL cutoff dates when a vessel schedule change occurs. This rule is intended to reduce any inconvenience or service disruption to you, our valued customer. In case port cutoff changes within 48 HRs before the current ERD begins and beyond, your ERD and RAIL CUTOFF DATES WILL NOT CHANGE.
+If schedule has changed within this window, and you would prefer the revised ERD / Rail Cutoff, please contact your regional customer service team to provide.
+SI General Cut-off 2022/09/12 03:00
+VGM Cut-off   2022/09/12 03:00
+ Door Information (Only in case that receive term is Door)
+ Special Instructions
+Named : IHERB
+Booking Reference No. : DALA93112100 For details, please see attachment.
+  Remark
+  RF : Yes DG : No
+  
+--- 1 ---
+--- 2 ---
+  *All sailing information is subject to change without notice which may affect cut-off dates.
+*Please be advised delivery of loaded units prior to the rail cut-off date specified above may result in early arrival of your units to the ocean terminal storages incurred.
+*Once the cargo above is received by carrier for carriage, the terms and conditions of carriage, including but not limited to exceptions, defences and liberties therein, shall be subject to HMMÕs Standard Bill of Lading which is available on HMMÕs website or shall be made available upon request.
+--- 2 ---
+--- 3 ---
+ Booking Number : DALA84533400
+*** ATTACHMENT **
+   <Reefer Cargo Detail>
+No.
+1 2 3 4 5
+           Container Type/Size
+Container Number
+Temperature. Set
+Ventilation
+Genset Required
+Oxygen(O2) (%)
+Carbon(CO2) (%)
+Ethlyene (%)
+Humidity (%)
+Drain
+Remarks
+RF4H
+68 oF
+0%
+Y
+RF4H
+68 oF
+0%
+Y
+RF4H
+68 oF
+0%
+Y
+RF4H
+68 oF
+0%
+Y
+RF4H
+68 oF
+0%
+Y
+                    <Special Instructions Detail>
+ Booking Reference No. : DALA84752200 Booking Reference No. : DALA32123100 Booking Reference No. : DALA01538000 Booking Reference No. : DALA69965800 Booking Reference No. : DALA73245400 Booking Reference No. : DALA87382400 Booking Reference No. : DALA50428600 Booking Reference No. : DALA95316000 Booking Reference No. : DALA44570500 Booking Reference No. : DALA16938800 Booking Reference No. : DALA84533400
+  
+--- 3 ---
